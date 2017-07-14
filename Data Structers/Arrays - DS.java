@@ -10,9 +10,7 @@ public class Solution {
         
         for(int i = 0; i < length; i++) {
             values[i] = input.nextInt();
-            
-            
-        }
+            }
         
         for(int i = length-1; i >=0; i--){
             System.out.print(values[i] + " ");
